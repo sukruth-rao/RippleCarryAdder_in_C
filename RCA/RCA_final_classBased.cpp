@@ -14,9 +14,6 @@ class printArray {
 			}
 			cout << "\n";
 		}
-
-
-
 };
 
 class IntToBin {
