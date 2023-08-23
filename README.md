@@ -10,26 +10,32 @@ git clone -b CLI https://github.com/sukruth-rao/RippleCarryAdder_in_CPP.git
 cd RippleCarryAdder_in_CPP/RCA
 ```
 
-### Compile the source code RCA.c
+## Compile the source code RCA.c
 
-## GCC
+### GCC
 ```
 gcc RCA.c -o <anyname>
 ```
 
-## LLVM Clang
+### LLVM Clang
 ```
 clang RCA.c -o <anyname>
 ```
+> **Replace anyname with whatever you prefer, ignore the angular graces as well**
+&nbsp;
 
-Run the executable along with the arguments
+&nbsp;
+
+
+**Run the executable along with the arguments**
 ```
 ./<anyname><leader>a<leader>b
 ```
-or 
+or
 ```
 ./<anyname> a b
 ```
+> eg: ./rca 1 15
 
 a and b are unsigned 32-bit numbers 
 > 0 - 4294967295
