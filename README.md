@@ -1,5 +1,5 @@
 # RippleCarryAdder in C
-### This branch contains the command-line tool
+#### This branch contains the command-line tool
 
 **Clone the CLI branch and compile the source code found in the RCA directory**
 
@@ -10,7 +10,7 @@ git clone -b CLI https://github.com/sukruth-rao/RippleCarryAdder_in_CPP.git
 cd RippleCarryAdder_in_CPP/RCA
 ```
 
-Compile the source code RCA.c
+### Compile the source code RCA.c
 
 ## GCC
 ```
