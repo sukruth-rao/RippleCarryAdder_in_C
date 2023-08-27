@@ -12,7 +12,7 @@ cd RippleCarryAdder_in_C/RCA
 
 ## Compile the source code RCA.c
 
-### GCC
+### GCC &middot; [![GCC](https://img.shields.io/badge/GCC-red)](https://gcc.gnu.org/)
 `gcc RCA.c -o <anyname>`
 
 eg:
@@ -20,7 +20,7 @@ eg:
 gcc RCA.c -o rca
 ```
 
-### LLVM Clang
+### LLVM Clang &middot; [![LLVM](https://img.shields.io/badge/LLVM-green)](https://llvm.org/)
 `clang RCA.c -o <anyname>`
 
 eg:
