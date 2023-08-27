@@ -35,14 +35,16 @@ clang RCA.c -o rca
 
 
 **Run the executable along with the arguments**
-```
-./<anyname><leader>a<leader>b
-```
+&nbsp;
+
+`./<anyname><leader>a<leader>b`
 or
+`./<anyname> a b`
+
+eg
 ```
-./<anyname> a b
+./rca 1 15
 ```
-> eg: ./rca 1 15
 
 a and b are unsigned 32-bit numbers 
 > 0 - 4294967295
