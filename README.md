@@ -6,8 +6,8 @@
 
 Open a terminal
 ```
-git clone -b CLI https://github.com/sukruth-rao/RippleCarryAdder_in_CPP.git
-cd RippleCarryAdder_in_CPP/RCA
+git clone -b CLI https://github.com/sukruth-rao/RippleCarryAdder_in_C.git
+cd RippleCarryAdder_in_C/RCA
 ```
 
 ## Compile the source code RCA.c
