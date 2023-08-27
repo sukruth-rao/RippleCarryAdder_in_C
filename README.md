@@ -13,15 +13,22 @@ cd RippleCarryAdder_in_C/RCA
 ## Compile the source code RCA.c
 
 ### GCC
+`gcc RCA.c -o <anyname>`
+
+eg:
 ```
-gcc RCA.c -o <anyname>
+gcc RCA.c -o rca
 ```
 
 ### LLVM Clang
+`clang RCA.c -o <anyname>`
+
+eg:
 ```
-clang RCA.c -o <anyname>
+clang RCA.c -o rca
 ```
-> **Replace anyname with whatever you prefer, ignore the angular graces as well**
+> [!IMPORTANT]
+> Replace anyname with whatever you prefer, ignore the angular graces as well
 &nbsp;
 
 &nbsp;
