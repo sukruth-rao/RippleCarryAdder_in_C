@@ -1,4 +1,4 @@
-# RippleCarryAdder_in_CPP
+# RippleCarryAdder in C
 
 <h1 align="center">
   <img src="https://github.com/Sukruth-Rao7/RippleCarryAdder_in_CPP/blob/master/img/rca.jpeg">
